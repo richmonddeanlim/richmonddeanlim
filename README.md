@@ -50,7 +50,7 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=richmonddeanlim&show_icons=true&theme=dracula&count_private=true" height="400" width="167"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=richmonddeanlim&show_icons=true&theme=dracula&count_private=true" height="150" width="167"  />
   </div>
 
 <div align="left">
