@@ -54,9 +54,9 @@
   <img src="https://streak-stats.demolab.com?user=richmonddeanlim&theme=dracula" height="160"/>
 </div>
 
-![richmonddeanlim's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=richmonddeanlim&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
 <div align="left">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richmonddeanlim&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" height="160"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richmonddeanlim&theme=drakula" height="160"/>
 </div>
 
 ###
