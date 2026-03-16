@@ -51,6 +51,9 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=richmonddeanlim&show_icons=true&theme=dracula&count_private=true" height="150" />
+  </div>
+
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=richmonddeanlim&layout=compact&langs_count=6&theme=dracula" height="150" />
 </div>
 
