@@ -54,9 +54,4 @@
   <img src="https://streak-stats.demolab.com?user=richmonddeanlim&theme=dracula" height="160"/>
 </div>
 
-
-<div align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richmonddeanlim&theme=drakula&show_icons=true&hide_border=true&layout=compact" height="160"/>
-</div>
-
 ###
