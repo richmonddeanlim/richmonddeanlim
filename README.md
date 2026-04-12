@@ -49,8 +49,7 @@
 
 ###
 
-<div align="left">
-   <img src="https://github-readme-stats.vercel.app/api?username=richmonddeanlim&show_icons=true&theme=dracula&count_private=true" height="160" alt="GitHub Stats" />
+<div align="cemter">
   <img src="https://streak-stats.demolab.com?user=richmonddeanlim&theme=dracula" height="160"/>
 </div>
 
